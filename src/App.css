@@ -1,0 +1,6 @@
+#root {
+  /* max-width: 1280px; */
+  text-align: center;
+  box-sizing: border-box;
+  --contexify-menu-minWidth: 120px;
+}
